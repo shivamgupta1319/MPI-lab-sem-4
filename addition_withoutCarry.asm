@@ -1,0 +1,6 @@
+LDA 0002H
+MOV B,A
+LDA 0005H
+MOV C,A
+ADD B
+hlt

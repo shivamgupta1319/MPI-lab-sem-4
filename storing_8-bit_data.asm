@@ -1,0 +1,4 @@
+
+MVI A,35H
+STA 2000H
+hlt
